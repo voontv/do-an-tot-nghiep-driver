@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blue_ribbon">#124FFB</color>
+    <color name="alto">#D7D7D7</color>
+    <color name="night_shadz">#A73B54</color>
+</resources>

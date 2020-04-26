@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">doantotnghiep</string>
+    <string name="driver">Driver</string>
+    <string name="lao">Lao</string>
+    <string name="practice">Practice</string>
+    <string name="learn">Learn</string>
+    <string name="test">Test</string>
+</resources>
